@@ -1,0 +1,7 @@
+[submodule "WEPO-project-2"]
+	path = WEPO-project-2
+	url = https://github.com/johannbjarka/WEPO-project-2.git
+
+[submodule "WEPOwhiteboard"]
+	path = WEPOwhiteboard
+	url = https://github.com/johannbjarka/WEPOwhiteboard.git
